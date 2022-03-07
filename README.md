@@ -1,7 +1,7 @@
 ### Hi!😉 I'm Marta Ponce
 
 ### 💻 I'm graduated as Front End Developer (Adalab)
-### 🚀 I’m looking for a job as Front End Developer!
+### 🚀 I want to become a great web developer!
 ### 🤠 Currently I´m working on personal projects to show my work
 
 
