@@ -2,7 +2,7 @@
 
 ### 💻 I'm graduated as Front End Developer (Adalab)
 ### 🚀 I want to become a great web developer!
-### 🤠 Currently I´m working on personal projects to show my work
+### 🤠 Currently I´m working on develop a couple of websites
 
 
 ```js
