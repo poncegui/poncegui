@@ -1,8 +1,8 @@
 ### Hi!😉 I'm Marta Ponce
 
-### 💻 I'm graduated as Front End Developer (Adalab)
+### 💻 I'm working as Front Developer at Openbank
 ### 🚀 I want to become a great web developer!
-### 🤠 Currently I´m working on develop a couple of websites
+### 🤠 Currently I´m working also personal projets
 
 
 ```js
