@@ -2,7 +2,7 @@
 
 ### 💻 I'm working as Front Developer at Openbank
 ### 🚀 I want to become a great web developer!
-### 🤠 Currently I´m working also personal projets
+### 🤠 Currently I´m working also on personal projets
 
 
 ```js
