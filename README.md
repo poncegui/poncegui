@@ -1,6 +1,6 @@
 ### Hi!😉 I'm Marta Ponce
 
-### 💻 I'm working as Front Developer at Openbank
+### 💻 I'm working as Front Developer at Openbank since 2022
 ### 🚀 I want to become a great web developer!
 ### 🤠 Currently I´m working also on personal projets
 
